@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/YOussehf/AirBnB_clone/assets/youssehfbnb_logo.png" alt="Youssehf logo">
+  <img src="https://github.com/Youssehf/AirBnB_clone/blob/803cf1bb5ec55ac9783dbf599fde7ee88b3efc7b/assets/youssehfbnb_logo.png" alt="Youssehf logo">
 </p>
 
 <h1 align="center">YoussehfBnB</h1>
